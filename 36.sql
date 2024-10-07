@@ -1,0 +1,1 @@
+SELECT DISTINCT id_cliente FROM ventas;

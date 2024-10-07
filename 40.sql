@@ -1,0 +1,2 @@
+SELECT * FROM ventas
+ORDER BY total DESC
